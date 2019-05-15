@@ -54,5 +54,5 @@ data() {
 | initial-zoom | Number | 13 | Initial Map Zoom |
 | map-type | String | roadmap | Type of map, options: ['roadmap', 'satellite'] |
 | lat | Number | 37.775 | Map center latitude |
-| lat | Number | -122.434 | Map center longitude |
+| lng | Number | -122.434 | Map center longitude |
 | points | Array | [] | Points to generate Heatmap with, array of objects [{lat: 37.775, lng: -122.434}] |
